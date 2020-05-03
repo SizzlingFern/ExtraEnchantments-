@@ -1,0 +1,6 @@
+name: ${project.name}
+version: 1.0.1
+main: sizzlingfern.extraenchantments.ExtraEnchantmentsPlugin
+author: SizzlingFern
+api-version: 1.13
+commands:
